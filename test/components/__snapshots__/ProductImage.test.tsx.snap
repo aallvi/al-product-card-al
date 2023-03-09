@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductTitle should show component image 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product image"
+    className=" undefined productImg"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`ProductTitle should show component with image perzonalied 1`] = `
+<img
+  alt="Product image"
+  className=" undefined productImg"
+  src="http://hola.jpg"
+/>
+`;
