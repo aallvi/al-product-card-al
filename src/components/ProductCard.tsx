@@ -26,7 +26,6 @@ export interface Props {
 export const ProductCard = ({children,product , className, style, onChange, value , initialValues } : Props ) => {
 
 
-
    const {increaseBy, counter ,maxCount, isMaxCountReached, reset } =  UseProduct({onChange, product, value, initialValues} )
 
 

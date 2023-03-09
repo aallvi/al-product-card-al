@@ -8,7 +8,7 @@ const App = () => {
 
   const product = {
     id:'1',
-    title:'Coffe mug - card',
+    title:'Coffe mug - card!',
     // img:'./coffee-mug.png'
 }
 
